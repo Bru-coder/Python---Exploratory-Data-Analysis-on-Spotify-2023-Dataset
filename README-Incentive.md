@@ -52,30 +52,6 @@ The EDA is divided into the following main sections:
    - Analyzing patterns in streams based on musical key and mode (e.g., major vs. minor).
    - Investigating whether specific artists or genres consistently appear in playlists or charts, indicating their popularity or platform preference.
 
-## How to Run the Analysis
-
-To run the Jupyter Notebook provided in this repository, follow these steps:
-
-1. **Clone the Repository**:
-   ```sh
-   git clone <repository-url>
-   cd spotify-2023-eda
-   ```
-
-2. **Set Up the Environment**:
-   Ensure you have **Python 3.x** installed and install the required dependencies:
-   ```sh
-   pip install pandas matplotlib seaborn
-   ```
-
-3. **Launch Jupyter Notebook**:
-   ```sh
-   jupyter notebook spotify-2023-analysis.ipynb
-   ```
-
-4. **Run the Notebook**:
-   Follow the instructions in the notebook cells. Each section is divided into steps with explanatory comments.
-
 ## Key Insights
 
 - **Popularity Trends**: Tracks with higher energy and danceability tend to accumulate more streams, suggesting that these characteristics resonate well with audiences.
