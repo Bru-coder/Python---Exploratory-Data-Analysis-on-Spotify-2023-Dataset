@@ -66,6 +66,3 @@ Based on the findings, the following recommendations are provided:
 - Strategic releases during peak months could enhance track visibility.
 - Artists should consider expanding their presence across multiple playlists and charts to maximize reach and audience engagement.
 
-## Contact
-If you have any questions or suggestions regarding this project, feel free to open an issue or submit a pull request.
-
